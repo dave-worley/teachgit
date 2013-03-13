@@ -3,3 +3,5 @@ Hi, Natalie! Good job!
 Now add a line of text to this file!
 
 Woohoo!
+
+Natalie was here again.
