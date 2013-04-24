@@ -1,0 +1,18 @@
+Hi, Matt.
+
+If this were source code you could work with it locally and then
+push those changes to the remote server.
+
+Remember that git tracks changes, and it does so locally on your machine
+until you make those changes public.
+
+When you push those changes you'll only be pushing exactly what you 
+actually changed.
+
+Then I pull those changes down from the remote and git makes those changes
+to my local files.
+
+In this way we can easily keep track of changes between our different
+locations and computers. You can use the remote to sync between your work
+and home machines.
+
